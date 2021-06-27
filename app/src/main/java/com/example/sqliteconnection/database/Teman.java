@@ -5,11 +5,8 @@ public class Teman {
     String nama;
     String telpon;
 
+
     public Teman() {
-
-    }
-
-    public Teman(String id, String nama, String telpon) {
         this.id = id;
         this.nama = nama;
         this.telpon = telpon;
